@@ -19,7 +19,7 @@ Training the model:
 python train.py --dataset [dataset]
 ```
 
-Prepare the vocabulary file for the dataset:
+Prepare the vocabulary files for the dataset:
 
 ```bash
 python prepare_vocab.py --dataset [dataset]
