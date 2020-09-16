@@ -1,6 +1,6 @@
 # Convolution over Dependency Tree (CDT)
 
-Dataset and code for our EMNLP 2019 paper "Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree" [[pdf]](graph_convolutional_networks_for_sentiment_analysis_.pdf)
+Dataset and code for our EMNLP 2019 paper: **Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree**. Kai Sun, [Richong Zhang](http://act.buaa.edu.cn/zhangrc/), Samuel Mensah, Yongyi Mao, Xudong Liu [[pdf]](graph_convolutional_networks_for_sentiment_analysis_.pdf)
 
 ## Requirement
 
@@ -30,16 +30,12 @@ python prepare_vocab.py --dataset [dataset]
 If this work is helpful, please cite as:
 
 ```bibtex
-@inproceedings{DBLP:conf/emnlp/SunZMML19,
+@inproceedings{Sun2019CDT,
   author    = {Kai Sun and
                Richong Zhang and
                Samuel Mensah and
                Yongyi Mao and
                Xudong Liu},
-  editor    = {Kentaro Inui and
-               Jing Jiang and
-               Vincent Ng and
-               Xiaojun Wan},
   title     = {Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree},
   booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural
                Language Processing and the 9th International Joint Conference on
@@ -47,12 +43,7 @@ If this work is helpful, please cite as:
                November 3-7, 2019},
   pages     = {5678--5687},
   publisher = {Association for Computational Linguistics},
-  year      = {2019},
-  url       = {https://doi.org/10.18653/v1/D19-1569},
-  doi       = {10.18653/v1/D19-1569},
-  timestamp = {Mon, 24 Aug 2020 19:19:32 +0200},
-  biburl    = {https://dblp.org/rec/conf/emnlp/SunZMML19.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  year      = {2019}
 }
 ```
 
