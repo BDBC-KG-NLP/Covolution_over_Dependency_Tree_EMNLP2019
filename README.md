@@ -1,4 +1,4 @@
-# RepWalk
+# Convolution over Dependency Tree (CDT)
 
 Dataset and code for our EMNLP 2019 paper "Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree" [[pdf]](graph_convolutional_networks_for_sentiment_analysis_.pdf)
 
