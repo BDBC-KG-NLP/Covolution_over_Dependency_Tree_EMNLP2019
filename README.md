@@ -1,4 +1,4 @@
-# Convolution over Dependency Tree (CDT)
+## Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree
 
 Dataset and code for the paper: **Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree**. Kai Sun, [Richong Zhang](http://act.buaa.edu.cn/zhangrc/), Samuel Mensah, Yongyi Mao, Xudong Liu. EMNLP 2019. [[pdf]](graph_convolutional_networks_for_sentiment_analysis_.pdf)
 
