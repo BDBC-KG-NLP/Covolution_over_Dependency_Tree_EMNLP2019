@@ -4,6 +4,8 @@ Dataset and code for the paper: **Aspect-Level Sentiment Analysis Via Convolutio
 
 ## Overview
 
+A dependency tree shortens the distance between the aspects and opinion words of a sentence, captures the syntactic relations between words, and offers discriminative syntactic paths on arbitrary sentences for information propagation across the tree. These properties allow neural network models to capture long-term syntactic dependencies effortlessly. Besides, dependency trees have graph-like structures bringing to play the recent class of neural networks, namely, graph convolutional networks (GCN). The GCN has been successful in learning representations for nodes, capturing the local position of nodes in the graph. These observations motivate us to develop a neural model which can operate on the dependency tree of a sentence, with the aim to make accurate sentiment predictions with respect to specific aspects.
+
 ![overview](model_framework.png)
 
 ## Requirement
