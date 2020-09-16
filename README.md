@@ -42,7 +42,6 @@ If this work is helpful, please cite as:
                Natural Language Processing, {EMNLP-IJCNLP} 2019, Hong Kong, China,
                November 3-7, 2019},
   pages     = {5678--5687},
-  publisher = {Association for Computational Linguistics},
   year      = {2019}
 }
 ```
