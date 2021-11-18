@@ -17,7 +17,7 @@ A dependency tree shortens the distance between the aspects and opinion words of
   - Download pre-trained word vectors [here](https://github.com/stanfordnlp/GloVe#download-pre-trained-word-vectors).
   - Extract the [glove.840B.300d.zip](http://nlp.stanford.edu/data/wordvecs/glove.840B.300d.zip) to the `dataset/glove/` folder.
 
-- Rported results in the paper are under a fixed random seed, thus results might be unstable under different GPU devices or random seeds. To reproduce the reported results, you can try to train the model for several times under different random seeds such as from 0 to 50. If you want to get the trained model, please refer to  
+- Rported results in the paper are under a fixed random seed, thus results might be unstable under different GPU devices or random seeds. To reproduce the reported results, you can try to train the model for several times under different random seeds such as from 0 to 50. If you want to get the trained model, please refer to https://drive.google.com/file/d/1ijAnzl1pHtSimRsxBEVoArVg4iJw18zg/view?usp=sharing
 
 ## Usage
 
